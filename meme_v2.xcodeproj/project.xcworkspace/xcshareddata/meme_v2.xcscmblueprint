@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "BCA3C0310DA9CBC1DBA70327C9B39E7C9AE94ED3",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "A13FB5819513C6E00CAF4FF40D563E371BCB5B9B" : 0,
+    "BCA3C0310DA9CBC1DBA70327C9B39E7C9AE94ED3" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "2E688BC2-B8D0-42C3-A5E7-600E472C60CE",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "A13FB5819513C6E00CAF4FF40D563E371BCB5B9B" : "",
+    "BCA3C0310DA9CBC1DBA70327C9B39E7C9AE94ED3" : "Meme.v2\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "meme_v2",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "meme_v2.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/davestroud\/Meme.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A13FB5819513C6E00CAF4FF40D563E371BCB5B9B"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/davestroud\/Meme.v2.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "BCA3C0310DA9CBC1DBA70327C9B39E7C9AE94ED3"
+    }
+  ]
+}
